@@ -1,3 +1,0 @@
-object Day1WithStreams {
-
-}
